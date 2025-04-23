@@ -165,6 +165,6 @@ Feel free to fork this repository, raise issues, and submit pull requests to con
 ## Contact
 
 For queries, suggestions, or feedback, please contact:
-Nur Hossain Farid
+Md Sifat Hossain
 Email: mdsifatss79@gmailcom
 GitHub: github.com/sifat-oss
