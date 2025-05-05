@@ -14,8 +14,6 @@ This project is an Express.js application developed with TypeScript that integra
 
 #### Backend Deployment Link: https://cyclezen-backend.vercel.app/
 
-#### Video Explanation (Public Link): https://www.loom.com/share/ba11e7351aea4109a3653b34e5bf1685?sid=8d8fbf07-3c24-4688-964e-191cc7961a95
-
 ## **Features**
 
 ### **1. Product(Bicycle) Management**
